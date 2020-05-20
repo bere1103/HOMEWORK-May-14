@@ -1,0 +1,82 @@
+.card {
+    margin:auto;
+    margin: auto;
+    padding: 15px;
+    width: 380px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    background-color:#008080;
+    box-shadow: 2px 2px #eee;
+    background-image: url("images/sunset1.png");    
+}
+
+h3 {
+   margin: 0 0 15px 0;
+   padding: 5px 10px;
+   border-bottom: 1px solid #c0c0c0;       
+   font-family: 'Roboto', sans-serif;;
+   font-size: 18px;
+   font-weight: bold;
+   width: 350px;
+   margin: auto;
+   text-align: center;
+   background-color: transparent;   
+   color: white;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+}
+
+.image-div {
+    margin: 15px auto;
+    width: 350px;
+    height: 350px; 
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+   
+}
+
+.image-div img {
+    width: 100%;
+    height: auto;
+}
+
+.info {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    width: 350px;
+    height: auto;
+    background-color: #313131;
+    opacity: 0.9;
+    color: #fff;
+    
+}
+
+.p {
+    font-style: italic;
+
+}
+
+.description {
+    font-style: italic;
+}
+
+#list-item {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 25px;
+}
+
+#list-item spam {
+    font-weight: bold;
+}
+
+.indent {
+    padding: left 50px;
+    text-align: right;
+    margin-right: 40px;
+}
+
+
